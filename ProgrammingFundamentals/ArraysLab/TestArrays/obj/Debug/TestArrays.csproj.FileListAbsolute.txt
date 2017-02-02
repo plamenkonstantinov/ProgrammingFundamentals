@@ -1,0 +1,6 @@
+C:\Users\PLAMEN\Documents\Visual Studio 2015\Projects\ArraysLab\TestArrays\bin\Debug\TestArrays.exe.config
+C:\Users\PLAMEN\Documents\Visual Studio 2015\Projects\ArraysLab\TestArrays\bin\Debug\TestArrays.exe
+C:\Users\PLAMEN\Documents\Visual Studio 2015\Projects\ArraysLab\TestArrays\bin\Debug\TestArrays.pdb
+C:\Users\PLAMEN\Documents\Visual Studio 2015\Projects\ArraysLab\TestArrays\obj\Debug\TestArrays.csprojResolveAssemblyReference.cache
+C:\Users\PLAMEN\Documents\Visual Studio 2015\Projects\ArraysLab\TestArrays\obj\Debug\TestArrays.exe
+C:\Users\PLAMEN\Documents\Visual Studio 2015\Projects\ArraysLab\TestArrays\obj\Debug\TestArrays.pdb
